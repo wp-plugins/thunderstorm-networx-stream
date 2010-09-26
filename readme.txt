@@ -4,7 +4,7 @@ Plugin link: http://www.thunderstorm-networx.de/
 Tags: wp-social, network, facebook, myspace, twitter, buddypress, mingle, forum, stream
 Requires at least: 3.0
 Tested up to: 3.0.1
-Stable tag: 0.1
+Stable tag: 0.1.1.2
 
 Ermöglicht das Anzeigen deiner Aktivität bei thunderstorm-networx auf deinem WordPress-Blog.
 
